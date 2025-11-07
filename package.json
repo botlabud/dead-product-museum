@@ -1,0 +1,16 @@
+{
+  "name": "dead-product-museum",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.10.0",
+    "@astrojs/mdx": "^2.3.0",
+    "zod": "^3.22.4"
+  }
+}
